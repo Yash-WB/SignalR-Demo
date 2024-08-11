@@ -1,0 +1,16 @@
+@MyProject_HostAddress = https://localhost:7161
+
+GET {{MyProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{MyProject_HostAddress}}/api/myentities
+Content-Type: application/json
+
+{
+  "Id" : 12,
+  "Name" : "asad"
+}
+
+###
