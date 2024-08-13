@@ -14,3 +14,7 @@ Content-Type: application/json
 }
 
 ###
+
+GET {{MyProject_HostAddress}}/api/myentities
+
+###

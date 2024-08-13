@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP NET\\SignalR\\MyProject\\",
+  "WorkspaceRootPath": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\hub\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\hub\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:hub\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\myproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:myproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Migrations\\20240812053234_updatedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240812053234_updatedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\model\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:model\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\migrations\\20240811104648_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:migrations\\20240811104648_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\controller\\myentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\controller\\myentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:controller\\myentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\model\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:model\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\asp net\\signalr\\myproject\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|d:\\projects and practice\\asp-signalr\\myproject\\myproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{058AD92E-C7EE-4367-A28C-89DFC7D66888}|MyProject.csproj|solutionrelative:myproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,120 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyProject.http",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\MyProject.http",
-              "RelativeDocumentMoniker": "MyProject.http",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\MyProject.http",
-              "RelativeToolTip": "MyProject.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-11T11:41:44.587Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyHub.cs",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\Hub\\MyHub.cs",
-              "RelativeDocumentMoniker": "Hub\\MyHub.cs",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\Hub\\MyHub.cs",
-              "RelativeToolTip": "Hub\\MyHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "20240812053234_updatedTables.cs",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Migrations\\20240812053234_updatedTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240812053234_updatedTables.cs",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Migrations\\20240812053234_updatedTables.cs",
+              "RelativeToolTip": "Migrations\\20240812053234_updatedTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:39:37.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyEntitiesController.cs",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\Controller\\MyEntitiesController.cs",
-              "RelativeDocumentMoniker": "Controller\\MyEntitiesController.cs",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\Controller\\MyEntitiesController.cs",
-              "RelativeToolTip": "Controller\\MyEntitiesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:37:30.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:33:51.316Z",
+              "WhenOpened": "2024-08-12T05:32:35.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\appsettings.json",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\appsettings.json",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-11T10:31:10.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\Data\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\Data\\MyDbContext.cs",
-              "RelativeToolTip": "Data\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:30:27.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyEntity.cs",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\Model\\MyEntity.cs",
-              "RelativeDocumentMoniker": "Model\\MyEntity.cs",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\Model\\MyEntity.cs",
-              "RelativeToolTip": "Model\\MyEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:29:28.32Z",
+              "WhenOpened": "2024-08-12T05:31:06.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240811104648_Addtable.cs",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\Migrations\\20240811104648_Addtable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240811104648_Addtable.cs",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\Migrations\\20240811104648_Addtable.cs",
-              "RelativeToolTip": "Migrations\\20240811104648_Addtable.cs",
+              "DocumentIndex": 8,
+              "Title": "MyProject.http",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\MyProject.http",
+              "RelativeDocumentMoniker": "MyProject.http",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\MyProject.http",
+              "RelativeToolTip": "MyProject.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-12T05:31:01.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T05:16:57.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:46:49.127Z",
+              "WhenOpened": "2024-08-12T04:31:40.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MyProject.csproj",
-              "DocumentMoniker": "D:\\ASP NET\\SignalR\\MyProject\\MyProject.csproj",
-              "RelativeDocumentMoniker": "MyProject.csproj",
-              "ToolTip": "D:\\ASP NET\\SignalR\\MyProject\\MyProject.csproj",
-              "RelativeToolTip": "MyProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-11T10:29:58.001Z"
+              "Title": "MyEntity.cs",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Model\\MyEntity.cs",
+              "RelativeDocumentMoniker": "Model\\MyEntity.cs",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Model\\MyEntity.cs",
+              "RelativeToolTip": "Model\\MyEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:31:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyEntitiesController.cs",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Controller\\MyEntitiesController.cs",
+              "RelativeDocumentMoniker": "Controller\\MyEntitiesController.cs",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Controller\\MyEntitiesController.cs",
+              "RelativeToolTip": "Controller\\MyEntitiesController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:31:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:31:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyHub.cs",
+              "DocumentMoniker": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Hub\\MyHub.cs",
+              "RelativeDocumentMoniker": "Hub\\MyHub.cs",
+              "ToolTip": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\Hub\\MyHub.cs",
+              "RelativeToolTip": "Hub\\MyHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:31:21.44Z",
+              "EditorCaption": ""
             }
           ]
         }

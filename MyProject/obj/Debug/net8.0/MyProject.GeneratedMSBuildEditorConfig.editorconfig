@@ -17,35 +17,35 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyProject
 build_property.RootNamespace = MyProject
-build_property.ProjectDir = D:\ASP NET\SignalR\MyProject\
+build_property.ProjectDir = D:\Projects and Practice\ASP-SignalR\MyProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ASP NET\SignalR\MyProject
+build_property.MSBuildProjectDirectory = D:\Projects and Practice\ASP-SignalR\MyProject
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP NET/SignalR/MyProject/Views/MyEntities/Create.cshtml]
+[D:/Projects and Practice/ASP-SignalR/MyProject/Views/MyEntities/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlFbnRpdGllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP NET/SignalR/MyProject/Views/MyEntities/Delete.cshtml]
+[D:/Projects and Practice/ASP-SignalR/MyProject/Views/MyEntities/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlFbnRpdGllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP NET/SignalR/MyProject/Views/MyEntities/Details.cshtml]
+[D:/Projects and Practice/ASP-SignalR/MyProject/Views/MyEntities/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlFbnRpdGllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP NET/SignalR/MyProject/Views/MyEntities/Edit.cshtml]
+[D:/Projects and Practice/ASP-SignalR/MyProject/Views/MyEntities/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlFbnRpdGllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP NET/SignalR/MyProject/Views/MyEntities/Index.cshtml]
+[D:/Projects and Practice/ASP-SignalR/MyProject/Views/MyEntities/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlFbnRpdGllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP NET/SignalR/MyProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects and Practice/ASP-SignalR/MyProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

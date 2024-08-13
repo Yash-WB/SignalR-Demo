@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore.SignalR;
-using Microsoft.EntityFrameworkCore;
-using MyProject.Data;
-using System;
+using System.Threading.Tasks;
 
 namespace MyProject.Hubs
 {
@@ -13,4 +11,3 @@ namespace MyProject.Hubs
         }
     }
 }
-

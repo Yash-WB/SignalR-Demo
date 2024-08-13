@@ -9567,19 +9567,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nimesh\\.nuget\\packages\\": {}
+    "C:\\Users\\Yash Harad\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP NET\\SignalR\\MyProject\\MyProject.csproj",
+      "projectUniqueName": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\MyProject.csproj",
       "projectName": "MyProject",
-      "projectPath": "D:\\ASP NET\\SignalR\\MyProject\\MyProject.csproj",
-      "packagesPath": "C:\\Users\\Nimesh\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP NET\\SignalR\\MyProject\\obj\\",
+      "projectPath": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\MyProject.csproj",
+      "packagesPath": "C:\\Users\\Yash Harad\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects and Practice\\ASP-SignalR\\MyProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nimesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yash Harad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MyProject.Data;
+using MyProject.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,18 +12,15 @@ builder.Services.AddSignalR();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll",
-        policy =>
-        {
-            policy.AllowAnyOrigin()
-                  .AllowAnyMethod()
-                  .AllowAnyHeader();
-        });
+    options.AddPolicy(name: "AllowMyAngularApp",
+                      policy =>
+                      {
+                          policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+                      });
 });
 
 var app = builder.Build();
-
-app.UseCors("AllowAll");
+app.UseCors("AllowMyAngularApp");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -35,7 +33,7 @@ app.UseRouting();
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
-    endpoints.MapHub<MyProject.Hubs.MyHub>("/myHub");
+    endpoints.MapHub<MyHub>("/myHub");
 });
 
 app.Run();
